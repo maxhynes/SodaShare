@@ -1,0 +1,9 @@
+{
+	"recommendations": [
+        "emmanuelbeziat.vscode-great-icons",
+        "christian-kohler.npm-intellisense",
+        "dbaeumer.vscode-eslint",
+        "eg2.vscode-npm-script",
+        "ms-vscode.vscode-typescript-tslint-plugin"
+    ]
+}
